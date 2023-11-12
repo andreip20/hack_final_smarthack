@@ -1,5 +1,7 @@
 # Smarthack Hackaton 2023
 
+My team (TicTechBoom) has won the 2nd place at this hackaton, making us very proud. Here are the details:
+
 Together with 3 other team members, I've developed an Android application which uses an AI chatbot in order to track three main skills which we chose, as a team, such that
 the user can interact with the chatbot in a natural manner, and all the processing is done 'behind the scenes'.
 
