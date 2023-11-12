@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hackaton_Smarthack_Final</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="journalai">JournalAi</string>
+</resources>
